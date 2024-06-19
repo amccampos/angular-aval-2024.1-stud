@@ -1,0 +1,162 @@
+[
+  {
+    "teams": ["int", "bah"],
+    "round": 1
+  },
+  {
+    "teams": ["cru", "bot"],
+    "round": 1
+  },
+  {
+    "teams": ["vit", "pal"],
+    "round": 1
+  },
+  {
+    "teams": ["flu", "rbb"],
+    "round": 1
+  },
+  {
+    "teams": ["vas", "gre"],
+    "round": 1
+  },
+  {
+    "teams": ["cor", "cam"],
+    "round": 1
+  },
+  {
+    "teams": ["sao", "for"],
+    "round": 1
+  },
+  {
+    "teams": ["cap", "cui"],
+    "round": 1
+  },
+  {
+    "teams": ["acg", "fla"],
+    "round": 1
+  },
+  {
+    "teams": ["cri", "juv"],
+    "round": 1
+  },
+  {
+    "teams": ["gre", "cap"],
+    "round": 2
+  },
+  {
+    "teams": ["cam", "cri"],
+    "round": 2
+  },
+  {
+    "teams": ["bah", "flu"],
+    "round": 2
+  },
+  {
+    "teams": ["fla", "sao"],
+    "round": 2
+  },
+  {
+    "teams": ["bot", "acg"],
+    "round": 2
+  },
+  {
+    "teams": ["pal", "int"],
+    "round": 2
+  },
+  {
+    "teams": ["rbb", "vas"],
+    "round": 2
+  },
+  {
+    "teams": ["for", "cru"],
+    "round": 2
+  },
+  {
+    "teams": ["cui", "vit"],
+    "round": 2
+  },
+  {
+    "teams": ["juv", "cor"],
+    "round": 2
+  },
+  {
+    "teams": ["cri", "for"],
+    "round": 3
+  },
+  {
+    "teams": ["rbb", "cor"],
+    "round": 3
+  },
+  {
+    "teams": ["cam", "cru"],
+    "round": 3
+  },
+  {
+    "teams": ["vit", "bah"],
+    "round": 3
+  },
+  {
+    "teams": ["bot", "juv"],
+    "round": 3
+  },
+  {
+    "teams": ["flu", "vas"],
+    "round": 3
+  },
+  {
+    "teams": ["gre", "cui"],
+    "round": 3
+  },
+  {
+    "teams": ["pal", "fla"],
+    "round": 3
+  },
+  {
+    "teams": ["cap", "int"],
+    "round": 3
+  },
+  {
+    "teams": ["acg", "sao"],
+    "round": 3
+  },
+  {
+    "teams": ["vas", "cri"],
+    "round": 4
+  },
+  {
+    "teams": ["bah", "gre"],
+    "round": 4
+  },
+  {
+    "teams": ["cru", "vit"],
+    "round": 4
+  },
+  {
+    "teams": ["for", "rbb"],
+    "round": 4
+  },
+  {
+    "teams": ["int", "acg"],
+    "round": 4
+  },
+  {
+    "teams": ["cui", "cam"],
+    "round": 4
+  },
+  {
+    "teams": ["fla", "bot"],
+    "round": 4
+  },
+  {
+    "teams": ["cor", "flu"],
+    "round": 4
+  },
+  {
+    "teams": ["juv", "cap"],
+    "round": 4
+  },
+  {
+    "teams": ["sao", "pal"],
+    "round": 4
+  }  
+]

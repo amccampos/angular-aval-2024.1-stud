@@ -1,0 +1,73 @@
+body {
+  display: flex;
+  flex-direction: row;
+  color: #333;
+  font-family: sans-serif;
+  justify-content: space-evenly;
+}
+
+.m-3 {
+  margin: 3px;
+}
+
+.mx-5 {
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+.mx-10 {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.flex {
+  display: flex;
+}
+
+.col {
+  flex-direction: column;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.w-fixed {
+  width: 120pt;
+}
+
+input.small {
+  width: 1.5em;
+}
+
+input.small[type=number] {
+  width: 3em;
+}
+
+.t-center {
+  text-align: center;
+}
+
+.t-right {
+  text-align: right;
+}
+
+.bg-none {
+  background: none;
+}
+
+.b-none {
+  border: 0;
+}
+
+.b-bottom {
+  border-bottom: 1px solid;
+}
+
+.pointer {
+  cursor: pointer;
+}

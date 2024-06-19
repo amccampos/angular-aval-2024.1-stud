@@ -1,0 +1,102 @@
+[
+  {
+    "id": "cap",
+    "name": "Athlético-PR",
+    "flag": "athletico-pr.svg"
+  },
+  {
+    "id": "acg",
+    "name": "Atlético-GO",
+    "flag": "atletico-go.svg"
+  },
+  {
+    "id": "cam",
+    "name": "Atlético-MG",
+    "flag": "atletico-mg.svg"
+  },
+  {
+    "id": "bah",
+    "name": "Bahia",
+    "flag": "bahia.svg"
+  },
+  {
+    "id": "bot",
+    "name": "Botafogo",
+    "flag": "botafogo.svg"
+  },
+  {
+    "id": "rbb",
+    "name": "Bragantino",
+    "flag": "bragantino.svg"
+  },
+  {
+    "id": "cor",
+    "name": "Corinthians",
+    "flag": "corinthians.svg"
+  },
+  {
+    "id": "cri",
+    "name": "Criciúma",
+    "flag": "criciuma.svg"
+  },
+  {
+    "id": "cru",
+    "name": "Cruzeiro",
+    "flag": "cruzeiro.svg"
+  },
+  {
+    "id": "cui",
+    "name": "Cuiabá",
+    "flag": "cuiaba.svg"
+  },
+  {
+    "id": "fla",
+    "name": "Flamengo",
+    "flag": "flamengo.svg"
+  },
+  {
+    "id": "flu",
+    "name": "Fluminense",
+    "flag": "fluminense.svg"
+  },
+  {
+    "id": "for",
+    "name": "Fortaleza",
+    "flag": "fortaleza.svg"
+  },
+  {
+    "id": "gre",
+    "name": "Grêmio",
+    "flag": "gremio.svg"
+  },
+  {
+    "id": "int",
+    "name": "Internacional",
+    "flag": "internacional.svg"
+  },
+  {
+    "id": "juv",
+    "name": "Juventude",
+    "flag": "juventude.svg"
+  },
+  {
+    "id": "pal",
+    "name": "Palmeiras",
+    "flag": "palmeiras.svg"
+  },
+  {
+    "id": "sao",
+    "name": "São Paulo",
+    "flag": "sao-paulo.svg"
+  },
+  {
+    "id": "vas",
+    "name": "Vasco",
+    "flag": "vasco.svg"
+  },
+  {
+    "id": "vit",
+    "name": "Vitória",
+    "flag": "vitoria.svg"
+  }
+]
